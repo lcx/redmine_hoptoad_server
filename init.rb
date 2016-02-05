@@ -1,3 +1,4 @@
+#encoding: utf-8
 Redmine::Plugin.register :redmine_hoptoad_server do
   name 'Redmine Hoptoad Server plugin'
   author 'Jan Schulz-Hofen, Planio GmbH'
